@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    font-family: arial;
+}
+.navbar
+{
+    height: 60px;
+    width: 1680px; ;
+    background-color: black;
+    text:white;
+
+}
+.nav-logo{
+    height: 50px;;
+    width: 183px;
+}
+.logo
+{
+    background-image: url("myplant-removebg-preview.png");
+height: 50px;
+width: 100%;
+background-size:cover;
+margin-left: 20px;
+}
+
+.home
+{
+    height: 70px;
+    width: 100%;
+    background-size: cover;
+    font-size: 20px;
+    color: white;
+    margin-left:1180px ;
+    margin-top: -35px;
+    text-decoration: none;
+}
+.aboutus{
+    height: 70px;
+    width: 100%;
+    background-size: cover;
+    font-size: 20px;
+    color: white;
+    margin-left:1330px ;
+    margin-top:-70px;
+}
+.contactus{
+    height: 70px;
+    width: 100%;
+    background-size: cover;
+    font-size: 20px;
+    color: white;
+    margin-left:1500px ;
+    margin-top: -70px;
+}
+.home:hover{
+    box-shadow: inline-flex;
+    color: rgb(55, 252, 0);
+}
+.aboutus:hover{
+    box-shadow:inline-flex;
+    color:rgb(55, 252, 0);
+}
+.contactus:hover{
+    box-shadow: inline-flex;
+    color: rgb(55, 252, 0);
+}
+.search
+{
+    height: 10px;
+    width: 50px;
+    margin-top: -70px;
+    margin-left: 700px;
+
+}
+.search-bar{
+    width:200%;
+    height: 20px;
+max-width: 800px;
+background-color:rgb(255, 255, 255);
+display: flex;
+border: 1px;
+border-bottom: white;
+border-radius: 50px;
+padding: 10px 150px;
+margin-left: -140px;
+margin-top:-78px;
+}
+.search-bar input
+{
+    width: px;
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding:0px 0px;
+    margin-left: -140px;
+    color: rgb(0, 0, 0);
+}
+.icon{
+    margin-right: -6px;
+    color: rgb(177, 177, 177);
+    margin-top: -3px;
+}
+.icon :hover{
+    box-shadow: inset;
+
+}
+.button{
+    margin-right: -135px;
+    background-color: transparent;
+    border: 0;
+}
+html,body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color:#081b29;
+}
+.contact1{
+    margin-left: 650px;
+    z-index: 10;
+    margin-top: 300px;
+}
+.contact3 input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: none;
+    outline: none;
+
+}
+.contact4 input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: none;
+    outline: none;
+
+}
+.contact5 textarea{
+    width: 300px;
+    height: 90px;
+    border-radius: 10px;
+    border-style: none;
+    outline: none;
+    
+}
+.contact6 button{
+    border-radius: 30px;
+    margin-left: 100px;
+    padding: 12px 28px ;
+    color: #081b29;
+    font-size: 16px;
+    font-weight: 6px;
+    
+}
+.contact6 button:hover{
+    box-shadow: 0 0 30px red;
+}
+.box7{
+    height: 450px;
+    width: 450px;
+    background: black;
+    margin-left: 580px;
+    margin-top: -400px;
+    border-radius: 20px;
+
+}
+.box7:hover{
+    box-shadow: 0 0 30px white;
+}
+a{
+    text-decoration: none;
+}
