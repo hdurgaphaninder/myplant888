@@ -151,3 +151,29 @@ a{
     font-size: 15px;
     margin-top: 10px;
 }
+@media (max-width:414px){
+    html{
+    font-size: 60%;
+    }
+    .content h1{
+        margin-left: 20px;
+        font-size: 20px;
+        margin-top: -300px;
+    }
+    .pht img{
+        margin-top: 190px;
+        margin-left:50px;
+
+    }
+    .content h3{
+        margin-left: 20px;
+        margin-top: 390px;
+        inline-size: 290px;
+    }
+    .content h4{
+        margin-left: 20px;
+        color:aqua;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+}
