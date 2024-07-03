@@ -139,6 +139,8 @@ a{
 }
 .pht img
 {
+    margin-left:50px;
+    margin-top:190px;
     height: 220px;
     width: 220px;
    
